@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.59aa4b3d.css",
-    "main.js": "/portfolio-react/static/js/main.9da240b6.js",
+    "main.js": "/portfolio-react/static/js/main.23d7ce90.js",
     "static/media/profile.png": "/portfolio-react/static/media/profile.240d113e4b50e5f4d783.png",
     "static/media/Chrono Landing .png": "/portfolio-react/static/media/Chrono Landing .184a9996a094ea8d18b1.png",
     "static/media/natural.png": "/portfolio-react/static/media/natural.90a37ef8d49a44944e21.png",
     "static/media/ME.png": "/portfolio-react/static/media/ME.b1b176494f4c3b87a28d.png",
-    "static/media/resume.pdf": "/portfolio-react/static/media/resume.a0f33b264ff81d77e443.pdf",
     "static/media/AdventureIns - Front Page.png": "/portfolio-react/static/media/AdventureIns - Front Page.8b9f14741f71f896969d.png",
     "static/media/Halloween Store - Front Page.png": "/portfolio-react/static/media/Halloween Store - Front Page.08069db21a0cff1b104a.png",
+    "static/media/resume.pdf": "/portfolio-react/static/media/resume.cde4a74ff66ec9891305.pdf",
     "static/media/TLA Consulting.png": "/portfolio-react/static/media/TLA Consulting.0f7ad7a9b246a71d7dff.png",
     "index.html": "/portfolio-react/index.html",
     "main.59aa4b3d.css.map": "/portfolio-react/static/css/main.59aa4b3d.css.map",
-    "main.9da240b6.js.map": "/portfolio-react/static/js/main.9da240b6.js.map"
+    "main.23d7ce90.js.map": "/portfolio-react/static/js/main.23d7ce90.js.map"
   },
   "entrypoints": [
     "static/css/main.59aa4b3d.css",
-    "static/js/main.9da240b6.js"
+    "static/js/main.23d7ce90.js"
   ]
 }
